@@ -1,0 +1,5 @@
+name,weight,maxCellCount,maxMove,maxStamina
+Wolf,50,30,3,8
+Fox,8,30,2,2
+Rabbit,2,150,2,0.45
+Grass,1,200,0,0

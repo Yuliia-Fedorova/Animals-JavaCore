@@ -1,0 +1,4 @@
+name,targetName,chance
+Wolf,Rabbit,60
+Fox,Rabbit,70
+Rabbit,Grass,100
