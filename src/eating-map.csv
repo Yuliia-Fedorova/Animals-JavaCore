@@ -2,3 +2,12 @@ name,targetName,chance
 Wolf,Rabbit,60
 Fox,Rabbit,70
 Rabbit,Grass,100
+Snake,Rabbit,20
+Bear,Rabbit,80
+Bear,Sheep,70
+Bear,Boar,70
+Horse,Grass,100
+Deer,Grass,100
+Sheep,Grass,100
+Boar,Grass,100
+Buffalo,Grass,100
